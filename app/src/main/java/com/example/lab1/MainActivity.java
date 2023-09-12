@@ -7,6 +7,7 @@ import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
 
+    //global variable
     private TextView tvMain;
 
     @Override
